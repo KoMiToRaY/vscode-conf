@@ -1,4 +1,4 @@
-General settings
+## General settings
 ```
 {
   "atomKeymap.promptV3Features": true,
