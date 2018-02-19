@@ -28,6 +28,27 @@
 ]
 ```
 
+## Install plugin
+
+```.bash
+code --install-extension
+
+CraigMaslowski.erb
+Tyriar.sort-lines
+abusaidm.html-snippets
+color-variable-replace.color-variable-replace
+dbaeumer.vscode-eslint
+formulahendry.auto-close-tag
+glen-84.sass-lint
+michelemelluso.code-beautifier
+mrmlnc.vscode-scss
+ms-vscode.atom-keybindings
+octref.vetur
+robertohuertasm.vscode-icons
+samverschueren.final-newline
+sianglim.slim
+```
+
 ## Allow integrated terminal to run as login shell
 
 https://github.com/Microsoft/vscode/issues/7263
