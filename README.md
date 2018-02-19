@@ -18,6 +18,16 @@
 }
 ```
 
+## Keybindings.json
+```
+[
+    {
+        "key": "f5",
+        "command": "editor.action.sortLinesAscending"
+    }
+]
+```
+
 ## Allow integrated terminal to run as login shell
 
 https://github.com/Microsoft/vscode/issues/7263
