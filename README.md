@@ -31,7 +31,7 @@
 ## Install plugin
 
 ```.bash
-code --install-extension
+code --install-extension extension_name
 
 CraigMaslowski.erb
 Tyriar.sort-lines
